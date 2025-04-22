@@ -2,48 +2,50 @@
 
 👨‍💻 **Junior High School Student** | Aspiring **AI Engineer**  
 📍 Based in Karanganyar, Indonesia  
-🌱 Learning **Python** & **HTML** (CSS and JavaScript coming soon...)  
-🚀 Aiming for a future in **AI Engineering**, but currently navigating the chaos of school life.
+🌱 Currently learning **Python** & **HTML** (CSS and JavaScript coming soon...)  
+🚀 Passionate about using technology to build a better, more logical future.
 
 ---
 
-> **Tech is my escape from a world full of nonsense.**  
-> I’m not here to entertain the ignorance around me, I’m here to create the future.
+> **Technology is my way of staying grounded in a chaotic world.**  
+> I’m here to build, learn, and grow—beyond the noise around me.
 
 ---
 
-## 🔧 Technologies I'm Learning:
+## 🔧 Technologies I'm Exploring
 - **Languages:** Python, HTML
-- **Not Yet:** CSS, JavaScript (Still in the "I can do this!" phase)
+- **Next Up:** CSS, JavaScript (Learning in progress!)
 
 ---
 
-## 🧠 About Me:
-- I'm just a student trying to break out of a system that values everything but logic.
-- Currently, I’m learning programming and exploring what it means to create meaningful software.
-- I don't have finished projects yet, but that's because I'm **building foundations**, not show-off work.
-- I’m sick of the *toxic* environment of my school, where “anarchy” reigns, and where everything is about **feudalism**, **ethnocentrism**, and **primordialism**. I’m just here to survive, learn, and hopefully create something better one day.
+## 🧠 About Me
+- A curious student focused on building strong programming foundations.
+- Learning to code while navigating a challenging and often frustrating school environment.
+- No completed projects yet—but every day is a step toward meaningful software creation.
+- I'm determined to rise above systems that often prioritize form over function and appearances over substance.
 
 ---
 
-## 💬 On School and Society:
-In a world where the loudest voices are often the dumbest, it’s hard to focus on learning.  
-Here’s a little truth about my reality:  
-- **Anarchy** – Some people think they can break rules just because they *can*, and they somehow get praised for it.  
-- **Feudalism** – The so-called "leaders" are just puppets with no real vision, and everyone else is stuck bowing down.  
-- **Ethnocentrism** – They think their culture is the only one that matters, and they judge others based on outdated ideas.  
-- **Primordialism** – They cling to outdated tribal mentalities and treat differences like weaknesses.  
+## 🌍 Reflections on School and Society
+Learning isn't always easy in an environment where values often clash with reason.  
+Here are a few realities I observe around me:
 
-I'm tired of this. That's why I choose to learn and focus on my future, no matter how messed up the environment is.
+- **Rule-Bending Culture** – Some are celebrated despite disregarding structure and fairness.
+- **Hierarchy Overload** – Student leadership often becomes symbolic, without real space to lead or inspire.
+- **Cultural Bias** – Traditional norms are often imposed without room for diversity or growth.
+- **Outdated Thinking** – Progress is slowed when differences are seen as threats instead of strengths.
 
----
-
-## 🔮 My Future Goals:
-- Be an **AI Engineer**.
-- Learn all the things I should have learned in a *functional* educational system.
-- Use tech to **bring balance**, even when the world around me is just one big mess.
+These challenges push me to learn with intention—to one day build systems and solutions that are inclusive, balanced, and smart.
 
 ---
 
-## 💬 Let's Connect:
-Feel free to explore my repos, but don’t expect perfection just yet. I’m still building the foundation of my future.
+## 🔮 Goals and Aspirations
+- Become a professional **AI Engineer**.
+- Relearn what I should’ve been taught in a more functional and empowering educational system.
+- Use tech to bring logic, clarity, and purpose to communities in need of change.
+
+---
+
+## 🤝 Let's Connect
+Feel free to explore my repositories. I'm still laying the foundation, but each repo represents part of a bigger vision.
+
