@@ -38,11 +38,6 @@ I'm tired of this. That's why I choose to learn and focus on my future, no matte
 
 ---
 
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InoPySE&show_icons=true&count_private=true&hide=prs&hide_title=true&hide=contribs)
-
----
-
 ## 🔮 My Future Goals:
 - Be an **AI Engineer**.
 - Learn all the things I should have learned in a *functional* educational system.
