@@ -48,7 +48,3 @@ These challenges push me to learn with intention—to one day build systems and 
 
 ## 🤝 Let's Connect
 Feel free to explore my repositories. I'm still laying the foundation, but each repo represents part of a bigger vision.
-
-📱 **Social Media**  
-- 🌐 [Facebook](https://www.facebook.com/reffalino.chandra.)  
-- 📸 [Instagram](https://www.instagram.com/nicky_ino/)
