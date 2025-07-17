@@ -1,6 +1,6 @@
 # Reffalino Nicky Chandra (Ino)
 
-👨‍💻 **Junior High School Student** | Aspiring **AI Engineer**  
+👨‍💻 **Vocational High School Student** | Aspiring **AI Engineer**  
 📍 Based in Karanganyar, Indonesia  
 🌱 Currently learning **Python** & **HTML** (CSS and JavaScript coming soon...)  
 🚀 Passionate about using technology to build a better, more logical future.
