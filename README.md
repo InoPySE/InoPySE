@@ -28,8 +28,9 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Replit](https://img.shields.io/badge/-Replit-667881?style=flat&logo=replit&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-1C1C1C?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
@@ -42,7 +43,7 @@
 
 ## 🐍 Contribution Snake (just for fun!)
 
-![GitHub Snake](https://github.com/InoPySE/InoPySE/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](https://raw.githubusercontent.com/InoPySE/InoPySE/output/github-snake-dark.svg)
 
 ---
 
@@ -64,5 +65,4 @@
 ## 🤝 Let's Connect
 Feel free to explore my repositories. I'm still laying the foundation, but each repo represents part of a bigger vision.
 
-> 💬 Discord: `inopyse#1234`  
-> 📧 Email: `reffalino.nicky@gmail.com`
+> 📧 Email: `reffalino373@gmail.com`
