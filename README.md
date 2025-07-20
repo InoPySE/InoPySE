@@ -29,6 +29,9 @@
 ## 🛠 Favorite Tools & Editors
 
 <p align="center">
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+  
   <!-- Google Colab -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Colab"/>
 
@@ -36,16 +39,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 
   <!-- GitHub -->
-  <img src="https://github.githubassets.com/images/modules/copilot/copilot-logo.png" width="50" height="50" alt="GitHub Copilot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
 
-  <!-- GitHub Copilot (pakai gambar khusus, bukan dari devicon) -->
-  <img src="https://seeklogo.com/images/G/github-copilot-logo-1A168DB3B3-seeklogo.com.png" width="50" height="50" alt="GitHub Copilot"/>
-
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+  <!-- PyCharm -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm"/>
 </p>
-
-
 
 ---
 
