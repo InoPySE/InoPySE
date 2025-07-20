@@ -28,11 +28,23 @@
 
 ## 🛠 Favorite Tools & Editors
 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-1C1C1C?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <!-- Google Colab -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Colab"/>
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+
+  <!-- GitHub Copilot (pakai gambar khusus, bukan dari devicon) -->
+  <img src="https://seeklogo.com/images/G/github-copilot-logo-1A168DB3B3-seeklogo.com.png" width="50" height="50" alt="GitHub Copilot"/>
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+</p>
+
 
 
 ---
