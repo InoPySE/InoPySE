@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://github.githubassets.com/images/modules/copilot/copilot-logo.png" width="50" height="50" alt="GitHub Copilot"/>
 
   <!-- GitHub Copilot (pakai gambar khusus, bukan dari devicon) -->
   <img src="https://seeklogo.com/images/G/github-copilot-logo-1A168DB3B3-seeklogo.com.png" width="50" height="50" alt="GitHub Copilot"/>
